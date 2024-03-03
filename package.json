@@ -1,0 +1,12 @@
+{
+  "name": "playwright-master-class",
+  "version": "1.0.0",
+  "description": "написання автотестів",
+  "scripts": {},
+  "author": "Kateryna Krolevetska <kateryna.krolevetska@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.24"
+  }
+}
